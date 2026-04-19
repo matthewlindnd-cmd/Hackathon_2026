@@ -17,13 +17,11 @@ What it does:
 - shows active alerts for that route
 - converts alerts into a simple commuter recommendation
 
-How to talk about it in class:
 - problem: commuters struggle to interpret disruption info quickly
 - user: students/workers/regular commuters in NSW
 - solution: a simple route checker dashboard
 - data: NSW public transport alerts data
 
-Easy upgrade if needed:
-- replace sample-alerts.json with live NSW alert API data
+possible upgrades:
 - add more routes
 - add maps or alternative route suggestions
